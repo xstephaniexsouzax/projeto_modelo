@@ -1,0 +1,46 @@
+body{
+    background:#d2d2c1 url(fundo.png)
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+   
+    /* largura e altura, respectivamento*/
+    width: 900px;
+    /* retirando a altura para se basear de acordo com o conteudo 
+    height: 500px;*/
+
+}
+
+#menu {
+    background: #c5c5b2 ;
+  
+    /*adicionar espaçamento*/
+    padding: 15px;
+    
+}
+a { 
+    color: #4b566a;
+    /*retirar o traço embaixo do link*/
+    text-decoration: none;
+    /*negrito*/
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 10pt;
+}
+.centralizar {
+    /*centralizar texto */
+    text-align: center;
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+
+}
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
