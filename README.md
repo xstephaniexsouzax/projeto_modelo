@@ -4,11 +4,23 @@ Segundo projeto com HTML e CSS puro. O objetivo era fazer um site simples para a
 Conhecimentos aprendidos:
 
 background => imagem de fundo;
+
 font => fonte;
+
 width => largura ;
+
 height => altura;
+
 padding => espaçamento interno;
+
 color => cor;
+
 text-decoration: none => retirar o traço embaixo do link;
-font-weight: bold => negrito
-text-align: center => centralizar texto
+
+font-weight: bold => negrito;
+
+text-align: center => centralizar texto;
+
+font-size  => tamanho da fonte;
+
+border => borda.
