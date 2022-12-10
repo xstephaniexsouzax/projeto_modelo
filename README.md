@@ -1,5 +1,5 @@
 # projeto_modelo
-Segundo projeto com HTML e CSS puro. O objetivo era fazer um site simples para a divulgação da carreota da modelo.
+Segundo projeto com HTML e CSS puro. O objetivo era fazer um site simples para a divulgação da carreira da modelo.
 
 Conhecimentos aprendidos:
 
