@@ -28,6 +28,8 @@ body{
     margin-left: 28.5%;
     text-align: center;
     border-radius: 10px;
+    min-width: 550px;
+    min-height: 20px;
     
 }
 a:hover {
@@ -48,6 +50,8 @@ a {
     padding: 0.5%;
     margin-left: 20%;
     margin-right: 20%;
+    min-width: 800px;
+    min-height: 800px;
 }
 .centralizar {
     /*centralizar texto */
